@@ -575,6 +575,7 @@ namespace Altinn.App.Core.Helpers
                 { ".xap", new("application/x-silverlight-app") },
                 { ".xbap", new("application/x-ms-xbap") },
                 { ".xbm", new("image/x-xbitmap") },
+                { ".xbrl", new("application/octet-stream") },
                 { ".xdr", new("text/plain") },
                 { ".xht", new("application/xhtml+xml") },
                 { ".xhtml", new("application/xhtml+xml") },
